@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC300utwSVAYOoRLEqmsprfg"/>
+ <id>yt:channel:UC300utwSVAYOoRLEqmsprfg</id>
+ <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+ <title>CursosWeb</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg"/>
+ <author>
+  <name>CursosWeb</name>
+  <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+ </author>
+ <published>2020-03-18T16:37:51+00:00</published>
+ <entry>
+  <id>yt:video:WlqYH7clQ0c</id>
+  <yt:videoId>WlqYH7clQ0c</yt:videoId>
+  <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+  <title>Implementación de aplicaciones web: Counter WebApp</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WlqYH7clQ0c"/>
+  <author>
+   <name>CursosWeb</name>
+   <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+  </author>
+  <published>2020-03-25T23:41:01+00:00</published>
+  <updated>2020-03-25T23:57:48+00:00</updated>
+  <media:group>
+   <media:title>Implementación de aplicaciones web: Counter WebApp</media:title>
+   <media:content url="https://www.youtube.com/v/WlqYH7clQ0c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WlqYH7clQ0c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Explicación de una aplicación web sencilla, counterapp.py, y de su estructura como ejemplo de la estructura de las aplicaciones web del lado del servidor en general.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FmtWarjh1SQ</id>
+  <yt:videoId>FmtWarjh1SQ</yt:videoId>
+  <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+  <title>Implementación de aplicaciones web: Counter Server</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FmtWarjh1SQ"/>
+  <author>
+   <name>CursosWeb</name>
+   <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+  </author>
+  <published>2020-03-25T22:56:58+00:00</published>
+  <updated>2020-03-25T23:41:20+00:00</updated>
+  <media:group>
+   <media:title>Implementación de aplicaciones web: Counter Server</media:title>
+   <media:content url="https://www.youtube.com/v/FmtWarjh1SQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FmtWarjh1SQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Explicación de una aplicación web sencilla, counter-server-1.py, y de su estructura como ejemplo de la estructura de las aplicaciones web del lado del servidor en general.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6fLZUn5jWjk</id>
+  <yt:videoId>6fLZUn5jWjk</yt:videoId>
+  <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+  <title>Arquitectura Modelo-Vista-Controlador</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6fLZUn5jWjk"/>
+  <author>
+   <name>CursosWeb</name>
+   <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+  </author>
+  <published>2020-03-23T21:30:48+00:00</published>
+  <updated>2020-03-23T22:04:36+00:00</updated>
+  <media:group>
+   <media:title>Arquitectura Modelo-Vista-Controlador</media:title>
+   <media:content url="https://www.youtube.com/v/6fLZUn5jWjk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6fLZUn5jWjk/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Introducción al modelo arquitectural MVC, y aplicación a la implementación de aplicaciones web en el lado del servidor. Relación de Django con este modelo, y con el modelo MTV (Model-Template-View).</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="10"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nfq8R654D4s</id>
+  <yt:videoId>nfq8R654D4s</yt:videoId>
+  <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+  <title>Frikiminutos: Proyecto Gutenberg</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nfq8R654D4s"/>
+  <author>
+   <name>CursosWeb</name>
+   <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+  </author>
+  <published>2020-03-19T18:08:29+00:00</published>
+  <updated>2020-03-23T21:42:39+00:00</updated>
+  <media:group>
+   <media:title>Frikiminutos: Proyecto Gutenberg</media:title>
+   <media:content url="https://www.youtube.com/v/nfq8R654D4s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nfq8R654D4s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>El proyecto Gutenberg se dedica a digitalizar libros cuyos derechos de autor ya han expirado, y a publicar el resultado como libros libres. Puedes leer estos libros (que incluyen gran parte de la literatura en lengua inglesa hasta principios del siglo XX, pero también libros en español y en otros idiomas), escucharlos (muchos de ellos están disponibles como audiolibros, o utilizarlos en tus aplicaciones.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="4"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Ew37o0oMY80</id>
+  <yt:videoId>Ew37o0oMY80</yt:videoId>
+  <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+  <title>Introducción a Django y &quot;Django calc&quot;</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Ew37o0oMY80"/>
+  <author>
+   <name>CursosWeb</name>
+   <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+  </author>
+  <published>2020-03-19T07:44:55+00:00</published>
+  <updated>2020-03-23T21:43:21+00:00</updated>
+  <media:group>
+   <media:title>Introducción a Django y &quot;Django calc&quot;</media:title>
+   <media:content url="https://www.youtube.com/v/Ew37o0oMY80?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/Ew37o0oMY80/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Introducción a Django, incluyendo cómo crear una primera aplicación en Django. Construcción de la aplicación &quot;Django calc&quot; paso a paso.
+
+
+Guión de la práctica correspondiente: https://gsyc.urjc.es/grex/cursosweb/guion.html</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="52"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:IY3dywwiM6g</id>
+  <yt:videoId>IY3dywwiM6g</yt:videoId>
+  <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+  <title>Acceso a los laboratorios docentes de la ETSIT medainte VNCweb y ssh</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=IY3dywwiM6g"/>
+  <author>
+   <name>CursosWeb</name>
+   <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+  </author>
+  <published>2020-03-18T16:49:39+00:00</published>
+  <updated>2020-03-23T21:44:03+00:00</updated>
+  <media:group>
+   <media:title>Acceso a los laboratorios docentes de la ETSIT medainte VNCweb y ssh</media:title>
+   <media:content url="https://www.youtube.com/v/IY3dywwiM6g?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/IY3dywwiM6g/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Desde casa puedes trabajar en los ordenadores de los laboratorios docentes de la ETSIT (&quot;laboratorios Linux&quot;), tanto en las máquinas físicas que estén encendidas, como en máquinas virtuales que se mantienen para trabajo remoto. Este video explica cómo acceder a cualquierda de ellas mediante ssh, o a las virtuales mediante VNCweb (que funciona en casi cualquier navegador, sin necesitad de tener instalado nada más).</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="28"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

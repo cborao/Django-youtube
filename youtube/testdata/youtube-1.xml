@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UC300utwSVAYOoRLEqmsprfg"/>
+ <id>yt:channel:UC300utwSVAYOoRLEqmsprfg</id>
+ <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+ <title>CursosWeb</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg"/>
+ <author>
+  <name>CursosWeb</name>
+  <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+ </author>
+ <published>2020-03-18T16:37:51+00:00</published>
+ <entry>
+  <id>yt:video:WlqYH7clQ0c</id>
+  <yt:videoId>WlqYH7clQ0c</yt:videoId>
+  <yt:channelId>UC300utwSVAYOoRLEqmsprfg</yt:channelId>
+  <title>Implementación de aplicaciones web: Counter WebApp</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=WlqYH7clQ0c"/>
+  <author>
+   <name>CursosWeb</name>
+   <uri>https://www.youtube.com/channel/UC300utwSVAYOoRLEqmsprfg</uri>
+  </author>
+  <published>2020-03-25T23:41:01+00:00</published>
+  <updated>2020-03-25T23:57:48+00:00</updated>
+  <media:group>
+   <media:title>Implementación de aplicaciones web: Counter WebApp</media:title>
+   <media:content url="https://www.youtube.com/v/WlqYH7clQ0c?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/WlqYH7clQ0c/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Explicación de una aplicación web sencilla, counterapp.py, y de su estructura como ejemplo de la estructura de las aplicaciones web del lado del servidor en general.</media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
